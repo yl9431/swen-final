@@ -5,5 +5,8 @@
 
 <p align="center">
 Marked Location:
+ </p>
+ 
+<p align="center">
 Distance to location:
  </p>
