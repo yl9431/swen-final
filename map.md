@@ -1,4 +1,4 @@
-## [ACCOUNT](https://www.google.com/){: .text-left} [MAP](https://www.google.com/){: .text-center} [SETTINGS](https://www.google.com/){: .text-right}
+## [ACCOUNT]{: .text-left}(https://www.google.com/) [MAP]{: .text-center}(https://www.google.com/) [SETTINGS]{: .text-right}(https://www.google.com/)
  
  ![Map](https://live.staticflickr.com/31/40919010_157eb18de1_b.jpg)
 
