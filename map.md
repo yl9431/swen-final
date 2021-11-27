@@ -1,6 +1,6 @@
 ## <p align="center">[ACCOUNT](https://google.com/)  [MAP](https://www.google.com/)  [SETTINGS](https://www.google.com/) </p>
  
- ![Map](https://live.staticflickr.com/31/40919010_157eb18de1_b.jpg)
+ ![Map](https://live.staticflickr.com/31/40919010_157eb18de1_b.jpg){:height="50%" width="50%"}
 
 
 <p align="center">
