@@ -1,4 +1,4 @@
-## <p align="left">[ACCOUNT](https://google.com/) </p>  <p align="center">[MAP](https://www.google.com/)</p> <p align="right">[SETTINGS](https://www.google.com/)</p>
+## <p align="left">[ACCOUNT](https://google.com/)  <p align="center">[MAP](https://www.google.com/)</p> <p align="right">[SETTINGS](https://www.google.com/)</p>
  
  ![Map](https://live.staticflickr.com/31/40919010_157eb18de1_b.jpg)
 
