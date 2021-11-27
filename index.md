@@ -1,4 +1,6 @@
-[ACCOUNT]() [MAP]() [SETTINGS]()
+[ACCOUNT]() 
+[MAP]() 
+[SETTINGS]()
  
  <p align="center">
  <img src="https://live.staticflickr.com/31/40919010_157eb18de1_b.jpg" width="500" height="500">
