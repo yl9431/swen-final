@@ -3,3 +3,6 @@
  ![Map](https://live.staticflickr.com/31/40919010_157eb18de1_b.jpg)
 
 
+Marked Location:
+
+Distance to location:
