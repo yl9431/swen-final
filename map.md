@@ -1,1 +1,1 @@
- ![Account](/pictures/button-1.jpg)
+ ![Account](pictures/button-1.png)
